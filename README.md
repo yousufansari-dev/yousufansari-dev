@@ -50,21 +50,38 @@
 
 ---
 
-## 📊 REAL ANIMATED STATS (TOP TIER)
+## 🏆 GitHub Achievements
 
-### ⚡ Live Contribution Activity (ACTUAL animation)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yousufansari-dev&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufansari-dev&theme=radical&hide_border=true&background=0D1117" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousufansari-dev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
 </p>
 
-### 🔥 Animated Stats Card
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousufansari-dev&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-### 🐍 REAL Snake Animation (GitHub Actions)
 <p align="center">
   <img src="https://raw.githubusercontent.com/yousufansari-dev/yousufansari-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 Animated GitHub Cards (Live Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousufansari-dev&show_icons=true&theme=radical&hide_border=false&count_private=true&hide_title=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufansari-dev&layout=compact&theme=radical&hide_border=false&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yousufansari-dev&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -85,11 +102,8 @@ https://instagram.com/yousufansari_23
 
 ## 🏆 Why This Profile Looks PROFESSIONAL
 
-✅ Motion-based SVGs  
-✅ Real contribution animation  
-✅ Clean hierarchy  
-✅ No fake effects  
-✅ Recruiter-friendly  
-
----
-
+✅ Animated GitHub Stats + Top Languages  
+✅ Contribution Graph + Snake Animation  
+✅ Trophy & Achievements displayed  
+✅ Clean & recruiter-friendly hierarchy  
+✅ Live visitor counter for pro effect  
