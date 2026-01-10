@@ -1,0 +1,25 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # Daily at 1 AM
+  workflow_dispatch:
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Trophy
+        run: |
+          curl -o dist/github-trophy.svg "https://github-profile-trophy.vercel.app/?username=yousufansari-dev&theme=darkhub&no-frame=true&row=1&column=7"
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
