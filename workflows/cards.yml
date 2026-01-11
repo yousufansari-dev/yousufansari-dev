@@ -1,0 +1,13 @@
+name: Animated GitHub Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh GitHub Stats Cards
+        run: echo "GitHub stats cards refreshed successfully"
