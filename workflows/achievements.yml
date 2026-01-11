@@ -1,0 +1,13 @@
+name: GitHub Achievements
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Achievements workflow active
+        run: echo "GitHub achievements are handled via README SVG services"
